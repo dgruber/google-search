@@ -5,7 +5,7 @@ package googlesearch_test
 import (
 	"testing"
 
-	googlesearch "github.com/rocketlaunchr/google-search"
+	googlesearch "github.com/dgruber/google-search"
 )
 
 func TestSearch(t *testing.T) {
